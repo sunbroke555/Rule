@@ -50,6 +50,7 @@ full:me.plexapp.com
 full:tvthemes.plexapp.com
 full:scrobbles.plex.tv
 full:registry.npmjs.org
+full:azusa.wiki
 full:hhanclub.top
 full:hhan.club
 full:pterclub.com

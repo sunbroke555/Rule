@@ -40,3 +40,5 @@ full:sunnytk.top
 full:t.ubits.club
 full:connects.icu
 full:nextpt.net
+full:tracker.azusa.wiki
+full:zimiao.icu
