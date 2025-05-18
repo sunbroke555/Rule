@@ -118,3 +118,4 @@ domain:hinet.net
 domain:ofiii.com
 domain:googlevideo.com
 domain:mytvsuper.com
+domain:acg.rip
