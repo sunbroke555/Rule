@@ -21,4 +21,7 @@ domain:mobaibox.com
 domain:gitv.tv
 domain:cctv.cn
 domain:yangshipin.cn
+domain:broadcasthe.net
+domain:passthepopcorn.me
+domain:beyond-hd.me
 IP-CIDR,183.206.0.0/15
