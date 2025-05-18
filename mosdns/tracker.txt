@@ -43,3 +43,4 @@ full:connects.icu
 full:nextpt.net
 full:tracker.azusa.wiki
 full:zimiao.icu
+full:t.acg.rip
