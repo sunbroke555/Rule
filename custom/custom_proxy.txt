@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,pcbeta.com
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,faleno.jp
