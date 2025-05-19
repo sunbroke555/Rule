@@ -37,6 +37,7 @@ domain:ofiii.com
 domain:googlevideo.com
 domain:mytvsuper.com
 domain:acg.rip
+domain:ilovepdf.com
 full:global.synologydownload.com
 full:api.insight.synology.com
 full:subscribe.insight.synology.com
