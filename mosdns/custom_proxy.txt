@@ -1,3 +1,4 @@
+domain:pcbeta.com
 domain:speedtest.net
 domain:dmm.co.jp
 domain:faleno.jp
