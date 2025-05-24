@@ -29,6 +29,7 @@ domain:a6tkapi1.com
 domain:roonlabs.net
 domain:jptv.club
 domain:mozilla.com
+domain:mozilla.net
 domain:mytvsuper.com
 domain:tvb.com
 domain:livednow.com
