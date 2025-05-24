@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,a6tkchat.com
 DOMAIN-SUFFIX,a6tkapi1.com
 DOMAIN-SUFFIX,roonlabs.net
 DOMAIN-SUFFIX,jptv.club
+DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,livednow.com
