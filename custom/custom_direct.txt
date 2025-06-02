@@ -1,3 +1,4 @@
+
 DOMAIN,api.day.app
 DOMAIN,api4.ipify.org
 DOMAIN,audio-ak.spotifycdn.com
@@ -6,6 +7,7 @@ DOMAIN,kktxjq.lol
 DOMAIN,portcheck.transmissionbt.com
 DOMAIN,v4.plex.tv
 DOMAIN-KEYWORD,test.
+DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,api.day.app
 DOMAIN-SUFFIX,beyond-hd.me
 DOMAIN-SUFFIX,broadcasthe.net
