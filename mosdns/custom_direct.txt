@@ -6,6 +6,7 @@ full:kktxjq.lol
 full:portcheck.transmissionbt.com
 full:v4.plex.tv
 keyword:test.
+domain:time.windows.com
 domain:api.day.app
 domain:beyond-hd.me
 domain:broadcasthe.net
