@@ -25,4 +25,3 @@ domain:yangshipin.cn
 domain:dnsany.com
 domain:hub.rat.dev
 domain:fosshub.com
-IP-CIDR,183.206.0.0/15
