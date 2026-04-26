@@ -5282,6 +5282,7 @@ domain:tdm.com.mo
 domain:teachparentstech.org
 domain:teamamericany.com
 domain:teamviewer.com
+domain:techbang.com
 domain:techcrunch.com
 domain:technews.tw
 domain:technorati.com
