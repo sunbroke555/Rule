@@ -113047,6 +113047,7 @@ domain:bgwxc.com
 domain:biancheng.net
 domain:bibaodao.com
 domain:blurdev.com
+brighticecream.com
 domain:btghotels.com
 domain:building.fun
 domain:cabbagebox.com
@@ -113060,6 +113061,7 @@ domain:cftest8.com
 domain:chaindd.com
 domain:chaz.fun
 domain:chazhengla.com
+chinacow.com
 domain:chinapp.net
 domain:chinazns.com
 domain:chongbuluo.com
@@ -113426,6 +113428,7 @@ domain:xiaoluyouxuan.com
 domain:xiaoluzhidian.com
 domain:xiazaiba.com
 domain:xingtan001.com
+xinlishumeng.com
 domain:xinmeng.info
 domain:xinshipu.com
 domain:xitong8.com
