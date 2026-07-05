@@ -111712,13 +111712,18 @@ DOMAIN-SUFFIX,zzzzaaaa.com
 DOMAIN-SUFFIX,zzzzzz.me
 DOMAIN-SUFFIX,alibaba
 DOMAIN-KEYWORD,alipay
+anquan
 DOMAIN-KEYWORD,baidu
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,icbc
+shouji
+sina
 DOMAIN-SUFFIX,sohu
 DOMAIN-KEYWORD,taobao
 DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,unicom
+DOMAIN-KEYWORD,weibo
+xihuan
 DOMAIN-SUFFIX,xn--1qqw23a
 DOMAIN-SUFFIX,xn--3bst00m
 DOMAIN-SUFFIX,xn--3ds443g
@@ -111728,6 +111733,7 @@ DOMAIN-SUFFIX,xn--6frz82g
 DOMAIN-SUFFIX,xn--6qq986b3xl
 DOMAIN-SUFFIX,xn--8y0a063a
 DOMAIN-SUFFIX,xn--9et52u
+xn--9krt00a
 DOMAIN-SUFFIX,xn--czr694b
 DOMAIN-SUFFIX,xn--czrs0t
 DOMAIN-SUFFIX,xn--czru2d
@@ -111748,6 +111754,7 @@ DOMAIN-SUFFIX,xn--vhquv
 DOMAIN-SUFFIX,xn--vuq861b
 DOMAIN-SUFFIX,xn--xhq521b
 DOMAIN-SUFFIX,xn--zfr164b
+yun
 DOMAIN,a1.mzstatic.com
 DOMAIN,a2.mzstatic.com
 DOMAIN,a3.mzstatic.com
@@ -112636,8 +112643,10 @@ DOMAIN,edge.geo.kaspersky.com
 DOMAIN,emoi-cncdn.bing.com
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
+DOMAIN,entitlements-edge.itunes.apple.com
 DOMAIN,fcs.dell.com
 DOMAIN,fides-pol.apple.com
+DOMAIN,fpinit.itunes.apple.com
 DOMAIN,fta.dell.com
 DOMAIN,ftaapj.dell.com
 DOMAIN,ftaemea.dell.com
@@ -114938,7 +114947,6 @@ DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,bilibili
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,stripe
-DOMAIN-KEYWORD,weibo
 DOMAIN-KEYWORD,qiyi
 PROCESS-NAME,com.taobao.taobao
 PROCESS-NAME,com.bilibili.app.blue
