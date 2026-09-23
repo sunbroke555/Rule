@@ -30073,7 +30073,7 @@ DOMAIN-SUFFIX,driver114.com
 DOMAIN-SUFFIX,driverchina.com
 DOMAIN-SUFFIX,driverdevelop.com
 DOMAIN-SUFFIX,drivergenius.com
-drivers.amd.com
+DOMAIN,drivers.amd.com
 DOMAIN-SUFFIX,driverzeng.com
 DOMAIN-SUFFIX,driverzj.com
 DOMAIN-SUFFIX,drivethelife.com
@@ -111223,6 +111223,7 @@ DOMAIN-SUFFIX,shopeesz.com
 DOMAIN-SUFFIX,sifou.com
 DOMAIN-SUFFIX,simei8.com
 DOMAIN-SUFFIX,sinopec-usa.com
+sjfls6.com
 DOMAIN-SUFFIX,sjwyx.com
 DOMAIN-SUFFIX,skypixel.com
 DOMAIN-SUFFIX,softwhy.com
